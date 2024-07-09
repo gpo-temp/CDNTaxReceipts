@@ -124,6 +124,11 @@ If you need to customize the amount that is tax-deductible on a receipt, use thi
       }
     }
 
+Issue Tracker
+------------
+
+Submit issues to [insert URL]
+
 Disclaimer
 ------------
 
